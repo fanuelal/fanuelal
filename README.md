@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fanuelal
 - 👀 I’m interested in Coding and also problem solving
-- 🌱 I’m currently learning ALX SE PROGRAM 
+- 🌱 I’m currently 🧑‍🎓Graduated ALX and Holberton SE PROGRAM 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me fanuelalmawstop@gmail.com
 
