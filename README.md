@@ -8,7 +8,7 @@
 - 📫 How to reach me **fanuelalmawstop@gmail.com**
 
 - 📄 Know about my experiences [My CV](https://www.canva.com/design/DAFJu6uUvzk/QWx1aXh6wmj5x7U6IISOpw/view?utm_content=DAFJu6uUvzk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
-# 📊 GitHub Stats:
+
 ![](https://github-readme-stats.vercel.app/api?username=fanuelal&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=fanuelal&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=fanuelal&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
