@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @fanuelal
+# 👋 Hi, I’m Fanuel Almaw
 - 👀 I’m interested in Coding and also problem solving
 - 🌱 I’m currently 🧑‍🎓Graduated ALX and Holberton SE PROGRAM 
 - 💞️ I’m looking to collaborate on ...
