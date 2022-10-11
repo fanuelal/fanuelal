@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **fanuelalmawstop@gmail.com**
 
-- 📄 Know about my experiences [https://www.canva.com/design/DAFJu6uUvzk/QWx1aXh6wmj5x7U6IISOpw/edit?utm_content=DAFJu6uUvzk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://www.canva.com/design/DAFJu6uUvzk/QWx1aXh6wmj5x7U6IISOpw/edit?utm_content=DAFJu6uUvzk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+- 📄 Know about my experiences [My CV](https://www.canva.com/design/DAFJu6uUvzk/QWx1aXh6wmj5x7U6IISOpw/edit?utm_content=DAFJu6uUvzk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
