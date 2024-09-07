@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Mobile App development**
 
-- 📫 How to reach me **fanuelalmawstop@gmail.com**
+- 📫 How to reach me **fanuelalmaw.dev@gmail.com**
 
 - 📄 Know about my experiences [My CV](https://www.canva.com/design/DAFJu6uUvzk/QWx1aXh6wmj5x7U6IISOpw/view?utm_content=DAFJu6uUvzk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
