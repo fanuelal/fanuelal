@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fanuelal&label=Profile%20views&color=0e75b6&style=flat" alt="fanuelal" /> </p>
 
-- 🔭 I’m currently working on **Mobile App development**
+- 🔭 I’m currently working on **Mobile App development both IOS and Android**
 
 - 📫 How to reach me **fanuelalmaw.dev@gmail.com**
 
